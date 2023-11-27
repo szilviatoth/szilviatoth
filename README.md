@@ -6,11 +6,23 @@ Right now, I'm putting this into practice by building a bucket list planner, whi
 
 Dive Into My Work
 
+
+
 🌟 I’m building: A bucket list planner to sort out life's big adventures.
-🚀 Skills in action: HTML, CSS, JS, React, Node.js, Next.js, GitHub, PostgreSQL
-📚 I’m currently learning: Every bit of wisdom the tech world offers.
-💬 Ask me about ...
+
+
+🚀 Skills in action: HTML, CSS, JS, React, Node.js, Next.js, GitHub, PostgreSQL 
+
+
+📚 I’m currently learning: Every bit of wisdom the tech world offers.  
+
+
 💌 Reach out to me: szilvia.felice@gmail.com
+
+
 🤝 Let's network on LinkedIn: www.linkedin.com/in/szilvia-tóth-56b83158
+
+
+
 
 
