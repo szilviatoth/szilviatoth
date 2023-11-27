@@ -1,6 +1,6 @@
 ### Hi there, I'm Szilvia 👋
 
-Fresh and crunhy out of a coding bootcamp. 
+Fresh and crunchy out of a coding bootcamp. 
 I'm really into the way front-end and back-end development work together. It's interesting to see how user interfaces link up with server-side tech. 
 Right now, I'm putting this into practice by building a bucket list planner, which is helping me get the hang of how both sides work together.
 
